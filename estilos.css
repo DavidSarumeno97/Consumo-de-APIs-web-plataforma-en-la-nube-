@@ -1,0 +1,48 @@
+.ima {
+    width: 64px;
+    height: 64px;
+}
+
+.fondo {
+    background-image: url("https://www.solofondos.com/wp-content/uploads/2015/12/Fondos-de-pantalla-deportes-f%C3%BAtbol.jpg");
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 100%;
+}
+
+table {
+    width: 100%;
+    border: 1px solid white;
+}
+
+th {
+    color: black;
+    width: 25%;
+    text-align: left;
+    vertical-align: top;
+    border-collapse: collapse;
+    padding: 0.3em;
+    caption-side: bottom;
+}
+
+td {
+    color: white;
+    width: 25%;
+    text-align: left;
+    vertical-align: top;
+    border: 2px solid white;
+    border-collapse: collapse;
+    padding: 0.3em;
+    caption-side: bottom;
+}
+
+caption {
+    padding: 0.3em;
+    color: #fff;
+    background: white;
+}
+
+th {
+    background: #eee;
+}
